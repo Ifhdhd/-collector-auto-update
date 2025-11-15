@@ -1,1 +1,112 @@
+{
+  "apps": [
+    {
+      "package": "io.silvrr.collecto01",
+      "latestVersionCode": 201,
+      "latestVersionName": "2.7.9",
+      "apkUrl": "https://github.com/Ifhdhd/-collector-auto-update/raw/main/io.silvrr.collecto01.apk",
+      "changelog": "Global update: bug fixes and performance improvements."
+    },
+    {
+      "package": "io.silvrr.collecto02",
+      "latestVersionCode": 201,
+      "latestVersionName": "2.7.9",
+      "apkUrl": "https://github.com/Ifhdhd/-collector-auto-update/raw/main/io.silvrr.collecto02.apk",
+      "changelog": "Global update: bug fixes and performance improvements."
+    },
+    {
+      "package": "io.silvrr.collecto03",
+      "latestVersionCode": 201,
+      "latestVersionName": "2.7.9",
+      "apkUrl": "https://github.com/Ifhdhd/-collector-auto-update/raw/main/io.silvrr.collecto03.apk",
+      "changelog": "Global update: bug fixes and performance improvements."
+    },
 
+    {
+      "package": "io.silvrr.collecto04",
+      "latestVersionCode": 201,
+      "latestVersionName": "2.9.5",
+      "apkUrl": "https://github.com/Ifhdhd/-collector-auto-update/raw/main/io.silvrr.collecto04.apk",
+      "changelog": "Global update: bug fixes and performance improvements."
+    },
+    {
+      "package": "io.silvrr.collecto05",
+      "latestVersionCode": 201,
+      "latestVersionName": "2.9.5",
+      "apkUrl": "https://github.com/Ifhdhd/-collector-auto-update/raw/main/io.silvrr.collecto05.apk",
+      "changelog": "Global update: bug fixes and performance improvements."
+    },
+    {
+      "package": "io.silvrr.collecto06",
+      "latestVersionCode": 201,
+      "latestVersionName": "2.9.5",
+      "apkUrl": "https://github.com/Ifhdhd/-collector-auto-update/raw/main/io.silvrr.collecto06.apk",
+      "changelog": "Global update: bug fixes and performance improvements."
+    },
+    {
+      "package": "io.silvrr.collecto07",
+      "latestVersionCode": 201,
+      "latestVersionName": "2.9.5",
+      "apkUrl": "https://github.com/Ifhdhd/-collector-auto-update/raw/main/io.silvrr.collecto07.apk",
+      "changelog": "Global update: bug fixes and performance improvements."
+    },
+    {
+      "package": "io.silvrr.collecto08",
+      "latestVersionCode": 201,
+      "latestVersionName": "2.9.5",
+      "apkUrl": "https://github.com/Ifhdhd/-collector-auto-update/raw/main/io.silvrr.collecto08.apk",
+      "changelog": "Global update: bug fixes and performance improvements."
+    },
+    {
+      "package": "io.silvrr.collector09",
+      "latestVersionCode": 201,
+      "latestVersionName": "2.9.5",
+      "apkUrl": "https://github.com/Ifhdhd/-collector-auto-update/raw/main/io.silvrr.collector09.apk",
+      "changelog": "Global update: bug fixes and performance improvements."
+    },
+
+    {
+      "package": "io.silvrr.collectors.a01",
+      "latestVersionCode": 201,
+      "latestVersionName": "2.8.9",
+      "apkUrl": "https://github.com/Ifhdhd/-collector-auto-update/raw/main/io.silvrr.collectors.a01.apk",
+      "changelog": "Global update: bug fixes and performance improvements."
+    },
+    {
+      "package": "io.silvrr.collectors.a02",
+      "latestVersionCode": 201,
+      "latestVersionName": "2.8.9",
+      "apkUrl": "https://github.com/Ifhdhd/-collector-auto-update/raw/main/io.silvrr.collectors.a02.apk",
+      "changelog": "Global update: bug fixes and performance improvements."
+    },
+    {
+      "package": "io.silvrr.collectors.a03",
+      "latestVersionCode": 201,
+      "latestVersionName": "2.8.9",
+      "apkUrl": "https://github.com/Ifhdhd/-collector-auto-update/raw/main/io.silvrr.collectors.a03.apk",
+      "changelog": "Global update: bug fixes and performance improvements."
+    },
+
+    {
+      "package": "io.silvrr.collectors.a04",
+      "latestVersionCode": 201,
+      "latestVersionName": "2.9.5",
+      "apkUrl": "https://github.com/Ifhdhd/-collector-auto-update/raw/main/io.silvrr.collectors.a04.apk",
+      "changelog": "Global update: bug fixes and performance improvements."
+    },
+    {
+      "package": "io.silvrr.collectors.a05",
+      "latestVersionCode": 201,
+      "latestVersionName": "2.9.5",
+      "apkUrl": "https://github.com/Ifhdhd/-collector-auto-update/raw/main/io.silvrr.collectors.a05.apk",
+      "changelog": "Global update: bug fixes and performance improvements."
+    },
+    {
+      "package": "io.silvrr.collectors.a06",
+      "latestVersionCode": 201,
+      "latestVersionName": "2.9.5",
+      "apkUrl": "https://github.com/Ifhdhd/-collector-auto-update/raw/main/io.silvrr.collectors.a06.apk",
+      "changelog": "Global update: bug fixes and performance improvements."
+    }
+  ]
+}
